@@ -1,10 +1,25 @@
 {
-    "users": [
-        {
-            "id": 0,
-            "name": "Dude One",
-            "email": "dudeone@dudemail.com",
-            "brithday": "01/01/2023"
-        }
-    ]
+  "users": [
+    {
+      "name": "Dude One",
+      "email": "dudeone@dudemail.com",
+      "birthday": "01/01/2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWh9kgrNK3S8b10WFWv1ZdJ_7ndynNIDaKnGIIbbrwA&s",
+      "id": 0
+    },
+    {
+      "name": "sadfasdf",
+      "email": "dude2@gmail.com",
+      "birthday": "2023-08-08",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaivukMQf6bEOtQVwZVANce8YhXwiqVRL6YafKOcAEw&s",
+      "id": 1
+    },
+    {
+      "name": "sadg;asklmdgasknfb",
+      "email": "dude3@gmail.com",
+      "birthday": "2023-09-09",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHi2HM9bdDY-9veYMAc-K9mdleyluBwkqadDwFI4oT&s",
+      "id": 2
+    }
+  ]
 }
