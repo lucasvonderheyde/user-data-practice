@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Dude One",
+            "email": "dudeone@dudemail.com",
+            "brithday": "01/01/2023"
+        }
+    ]
+}
